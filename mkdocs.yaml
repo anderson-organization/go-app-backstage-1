@@ -1,0 +1,15 @@
+site_name: 'go-app-backstage-1'
+site_description: 'Main documentation for the go-app-backstage-1'
+repo_url: https://github.com/andersonmarquesgit/go-app-backstage-1
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+  - redirects:
+      redirect_maps:
+        'index.md': 'docs/index.md'
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'

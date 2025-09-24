@@ -3,7 +3,6 @@ image:
   repository: andersonmarquesdocker/go-app-backstage-1
   pullPolicy: IfNotPresent
   tag: go-app-backstage-1-dev-latest
-
 resources:
   requests:
     cpu: 40m

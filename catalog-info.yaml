@@ -4,7 +4,7 @@ metadata:
   name: go-app-backstage-1
   description: Go application using Backstage 
   annotations:
-    github.com/project-slug: andersonmarquesgit/go-app-backstage-1
+    github.com/project-slug: anderson-organization/go-app-backstage-1
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
